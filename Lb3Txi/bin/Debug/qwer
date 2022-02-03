@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<NoteBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list>
+    <Ticket>
+      <Price>434</Price>
+      <Coach>123</Coach>
+      <Place>11</Place>
+      <Name />
+      <Age>11</Age>
+    </Ticket>
+  </list>
+</NoteBook>

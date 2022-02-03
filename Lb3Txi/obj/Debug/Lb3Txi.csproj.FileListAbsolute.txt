@@ -1,0 +1,25 @@
+C:\Users\Valerik\Documents\Visual Studio 2013\Projects\Lb3Txi\Lb3Txi\bin\Debug\Lb3Txi.exe.config
+C:\Users\Valerik\Documents\Visual Studio 2013\Projects\Lb3Txi\Lb3Txi\bin\Debug\Lb3Txi.exe
+C:\Users\Valerik\Documents\Visual Studio 2013\Projects\Lb3Txi\Lb3Txi\bin\Debug\Lb3Txi.pdb
+C:\Users\Valerik\Documents\Visual Studio 2013\Projects\Lb3Txi\Lb3Txi\obj\Debug\Lb3Txi.csprojResolveAssemblyReference.cache
+C:\Users\Valerik\Documents\Visual Studio 2013\Projects\Lb3Txi\Lb3Txi\obj\Debug\Lb3Txi.exe
+C:\Users\Valerik\Documents\Visual Studio 2013\Projects\Lb3Txi\Lb3Txi\obj\Debug\Lb3Txi.pdb
+C:\Users\Cyanide\Downloads\Lb3Txi\Lb3Txi\Lb3Txi\bin\Debug\Lb3Txi.exe.config
+C:\Users\Cyanide\Downloads\Lb3Txi\Lb3Txi\Lb3Txi\obj\Debug\Lb3Txi.exe
+C:\Users\Cyanide\Downloads\Lb3Txi\Lb3Txi\Lb3Txi\obj\Debug\Lb3Txi.pdb
+C:\Users\Cyanide\Downloads\Lb3Txi\Lb3Txi\Lb3Txi\bin\Debug\Lb3Txi.exe
+C:\Users\Cyanide\Downloads\Lb3Txi\Lb3Txi\Lb3Txi\bin\Debug\Lb3Txi.pdb
+C:\Users\Cyanide\Downloads\Lb3Txi\Lb3Txi\Lb3Txi\obj\Debug\Lb3Txi.csprojResolveAssemblyReference.cache
+C:\Users\Valerik\Desktop\Новая папка\Lb3Txi\Lb3Txi\bin\Debug\Lb3Txi.exe.config
+C:\Users\Valerik\Desktop\Новая папка\Lb3Txi\Lb3Txi\obj\Debug\Lb3Txi.exe
+C:\Users\Valerik\Desktop\Новая папка\Lb3Txi\Lb3Txi\obj\Debug\Lb3Txi.pdb
+C:\Users\Valerik\Desktop\Новая папка\Lb3Txi\Lb3Txi\obj\Debug\Lb3Txi.csprojResolveAssemblyReference.cache
+C:\Users\Valerik\Desktop\Новая папка\Lb3Txi\Lb3Txi\bin\Debug\Lb3Txi.exe
+C:\Users\Valerik\Desktop\Новая папка\Lb3Txi\Lb3Txi\bin\Debug\Lb3Txi.pdb
+C:\Users\Valerik\Desktop\ЛБ3тхи\Lb3Txi\Lb3Txi\bin\Debug\Lb3Txi.exe.config
+C:\Users\Valerik\Desktop\ЛБ3тхи\Lb3Txi\Lb3Txi\bin\Debug\Lb3Txi.exe
+C:\Users\Valerik\Desktop\ЛБ3тхи\Lb3Txi\Lb3Txi\bin\Debug\Lb3Txi.pdb
+C:\Users\Valerik\Desktop\ЛБ3тхи\Lb3Txi\Lb3Txi\obj\Debug\Lb3Txi.csprojAssemblyReference.cache
+C:\Users\Valerik\Desktop\ЛБ3тхи\Lb3Txi\Lb3Txi\obj\Debug\Lb3Txi.csproj.CoreCompileInputs.cache
+C:\Users\Valerik\Desktop\ЛБ3тхи\Lb3Txi\Lb3Txi\obj\Debug\Lb3Txi.exe
+C:\Users\Valerik\Desktop\ЛБ3тхи\Lb3Txi\Lb3Txi\obj\Debug\Lb3Txi.pdb
